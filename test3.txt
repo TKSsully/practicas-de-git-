@@ -1,0 +1,6 @@
+modificacion desde nano
+
+para guardar archivos en git es creando los archivos modificarlos
+añadirlos a la rama donde estes trabadando
+despues agregas tu commit para poder subirlos a github
+con diferentes comando
