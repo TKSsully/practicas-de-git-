@@ -1,0 +1,4 @@
+primera modificacion de prueba para saber 
+como se usa git, si se puede 
+
+modificacion hecha desde nano
